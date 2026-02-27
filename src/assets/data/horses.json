@@ -1,0 +1,22 @@
+[
+  { "id": 1, "name": "Thunder Bolt", "color": "#E53935", "condition": 85 },
+  { "id": 2, "name": "Silver Arrow", "color": "#1E88E5", "condition": 72 },
+  { "id": 3, "name": "Golden Stride", "color": "#F9A825", "condition": 90 },
+  { "id": 4, "name": "Midnight Star", "color": "#6A1B9A", "condition": 65 },
+  { "id": 5, "name": "Iron Hoof", "color": "#00897B", "condition": 78 },
+  { "id": 6, "name": "Blaze Runner", "color": "#FF6F00", "condition": 55 },
+  { "id": 7, "name": "Storm Chaser", "color": "#0D47A1", "condition": 92 },
+  { "id": 8, "name": "Wild Spirit", "color": "#2E7D32", "condition": 48 },
+  { "id": 9, "name": "Royal Comet", "color": "#AD1457", "condition": 83 },
+  { "id": 10, "name": "Desert Wind", "color": "#BF360C", "condition": 67 },
+  { "id": 11, "name": "Shadow Dancer", "color": "#37474F", "condition": 74 },
+  { "id": 12, "name": "Lucky Charm", "color": "#00BFA5", "condition": 60 },
+  { "id": 13, "name": "Crimson Fury", "color": "#C62828", "condition": 88 },
+  { "id": 14, "name": "Ocean Breeze", "color": "#0288D1", "condition": 51 },
+  { "id": 15, "name": "Amber Flash", "color": "#FF8F00", "condition": 79 },
+  { "id": 16, "name": "Velvet Thunder", "color": "#4A148C", "condition": 95 },
+  { "id": 17, "name": "Pine Gallop", "color": "#1B5E20", "condition": 42 },
+  { "id": 18, "name": "Coral Dash", "color": "#E91E63", "condition": 70 },
+  { "id": 19, "name": "Titan Force", "color": "#455A64", "condition": 63 },
+  { "id": 20, "name": "Sunset Rider", "color": "#F57F17", "condition": 81 }
+]
