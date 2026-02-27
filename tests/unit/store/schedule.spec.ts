@@ -1,7 +1,7 @@
 import { describe, it, expect, beforeEach } from 'vitest'
 import { createStore, type Store } from 'vuex'
 import schedule, { type ScheduleState } from '@/store/modules/schedule'
-import horses, { type HorsesState } from '@/store/modules/horses'
+import horses from '@/store/modules/horses'
 import type { RootState } from '@/store'
 import { TOTAL_ROUNDS, HORSES_PER_ROUND } from '@/constants/raceConfig'
 
